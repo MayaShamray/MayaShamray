@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Swift projects
-- 📫 How to reach me @maya_shamray telegram
+- 📫 How to reach me @Maya_Shamray telegram
 
 <!---
 MayaShamray/MayaShamray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
