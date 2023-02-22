@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MayaShamray
-- 👀 I’m interested in Swift
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Swift projects
-- 📫 How to reach me @Maya_Shamray telegram
+👋 Coding, oding, ding, ing, ng, g 
+
+
 
 <!---
 MayaShamray/MayaShamray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
